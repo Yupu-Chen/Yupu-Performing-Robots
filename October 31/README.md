@@ -12,4 +12,15 @@ If the movement of the robot shows its intention, it is easier for people for ac
 
 Physicality is essential to human affect expressions. As the theorist says, "affect is simply a body movement looked at from the point of view of its potential - its capacity to come to be, or better, to come to do". In this sense, the emotion is a form of and only conveyed by physical being. It is said that there's an affect associated with every functioning of the body. What about disabled human beings? Do they also induce less expressions as a robot not fully leveraging its physicality? Or there is something else in human beings that compensates for incomplete body in terms of communication and expression?
 
-3.
+3. Mirror neurons: physicality and motion
+
+As the physicality is crucial to the expression of emotions, it is also found that people tend to project the motions seen onto ourselves. In other words, to see is to do. How do people simulate actions done by humans and robots differently?
+
+4. Outward Emitional Communication Trumps Inward Experience
+
+Performers' internal emotions can be totally different from the emotions perceived by the audience. Robots as well are desinged to "enhance, enable or empower a human or set of humans". With the example of Tweenbot, a question to ask is that "Do people interact with robots because they feel how robots feel?", "Why would people feel emotions even if the robot itself has not internal expression?"
+
+5. Social role: the gulf between props and character
+
+
+
