@@ -22,5 +22,17 @@ Performers' internal emotions can be totally different from the emotions perceiv
 
 5. Social role: the gulf between props and character
 
+A sense of authentic interaction makes the robot an agent on stage instead of a prop. When the robot behaves like a human, feels like a human, and perhaps talks like a human, people will perceive it as an interactive character instead of just an object. In some sense, what distinguishes a subject from objects on stage is its interactivity . What is effect if a human is treated as an object while robots completely take the place of agents on stage? Will people be scared, surprised, excited, sad or...?
 
+6. Good actors outweigh bad actors: attribution
+
+Audience's sentiment toward robot agents can be determined by the attitude of human actors toward robot performers. They can show to the audience what roles robots are playing and how people should treat them. 
+
+7. Acknowledgement/learning: looping in audience feedback
+
+Taking real-time feedback from the audience can help actoers better adjust their performances and maximize the audience's overall enjoyment. For robots, tracking the feedback real time can be done from a technological side. What about human actors? Will human actors react to the audience's feedback faster or slower than robots since the human brain's mechanism is much more complicated than the robots' algorithms? In this sense, is it possible that robots can better improvise than human beings?
+
+8. Humor will make people like your robot better
+
+It is said that a sense of humor, such as self-depricating joke, can make people like the robot better. What do you think is the limit here? In other words, how much such sense of humor do you think is appropriate?
 
